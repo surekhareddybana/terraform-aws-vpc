@@ -7,3 +7,4 @@ cidr(optional) user provide cidr blocks default is 10.0.0.0/16
 
 # outputs
 vpc_id - expose vpc id created
+public_subnet_ids
